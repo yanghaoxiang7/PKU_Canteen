@@ -1,0 +1,203 @@
+.food_1{
+    background: url(../images/images_home_jiayuan/food_1.jpg) no-repeat 0px 0px;
+    background-size: cover;
+}
+.food_2{
+    background: url(../images/images_home_jiayuan/food_2.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_3{
+    background: url(../images/images_home_jiayuan/food_3.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_4{
+    background: url(../images/images_home_jiayuan/food_4.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_5{
+    background: url(../images/images_home_jiayuan/food_5.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_6{
+    background: url(../images/images_home_jiayuan/food_6.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_7{
+    background: url(../images/images_home_jiayuan/food_7.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_8{
+    background: url(../images/images_home_jiayuan/food_8.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_9{
+    background: url(../images/images_home_jiayuan/food_9.png) no-repeat 0px 0px;
+    background-size: cover;	
+}
+.food_10{
+    background: url(../images/images_home_jiayuan/food_10.png) no-repeat 0px 0px;
+    background-size: cover;	
+}
+
+.inner_11{
+    background: url(../images/images_home_jiayuan/inner_11.jpg) no-repeat 0px 0px;
+    background-size: cover;	
+}
+
+.gif-style
+{
+    width: 100%;
+}
+
+.features-left-info{
+	background: url(../images/images_home_jiayuan/logo2.png) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 450px;
+}
+
+i.fa.fa-phone{
+    color: #FFF;
+    font-size: 1.5em;
+}
+
+.footer {
+    padding: 0 0 5% 0;
+}
+
+#map {
+    width: 90%;
+    height: 600px;
+    margin: 0 auto;
+    border: #ccc solid 1px;
+    font-size: 12px;
+}
+
+.banner-info{
+    text-align: center;
+    margin: 6em auto 4em;
+    width: 70%;
+}
+.banner-info h2{
+    font-size: 5em;
+    font-family: 'Francois One', sans-serif;
+    color: #FFFFFF;
+    margin: 0;
+	transition: font-size 1s;
+}
+
+.banner-info h2:hover{
+    font-size: 6em;
+}
+.banner-info p{
+    color: #FFFFFF;
+    font-size: 1em;
+    line-height: 1.8em;
+    margin: 2em 0 0 0;
+	transition: font-size 1s;
+}
+.banner-info-home p:hover{
+    font-size: 1.2em;
+}
+.banner-grad-img {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-grad-img img{
+	width: 100%;
+    border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+    border: solid 8px #FFF;
+}
+.banner-grad-img h4{
+    margin: 1em 0 0 0;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    font-family: 'Francois One', sans-serif;
+}
+
+* { touch-action: pan-y; }
+
+.banner-circle-img {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner-circle-img img {
+	width: 100%;
+	filter: brightness(100%);
+    border-radius: 30%;
+    border: solid 4px #FFF;
+    transition: filter 0.5s, width 0.5s;
+}
+
+.banner-circle-img img:hover {
+	width: 105%;
+	filter: brightness(150%);
+    border-radius: 30%;
+    border: solid 4px #FFF;
+}
+
+.card{
+    transition: box-shadow 0.3s, margin-top 0.3s;
+}
+.card:hover{
+    margin-top: -10px;
+    box-shadow: 3px 3px 15px;
+}
+.card-img-top{
+    width: 95%;
+    padding-top: 5px;
+    margin: 0 auto;
+    transition: width 0.5s;
+}
+.card-img-top:hover{
+    width: 98%;
+}
+
+
+@keyframes fadeSubtitle{
+    0% { opacity: 0; position: relative; top: 10px; }
+    100% { opacity: 1; position: relative; top: 0px; }
+}
+.fadeSubtitle{
+    animation: fadeSubtitle 1s ease 0.5s both;
+}
+
+@keyframes fadeTitle{
+    0% { opacity: 0; position: relative; top: 10px; }
+    100% { opacity: 1; position: relative; top: 0px; }
+}
+.fadeTitle{
+    animation: fadeTitle 1s ease 0s both;
+}
+
+
+@keyframes fadeimage1{
+    0% { opacity: 0; position: relative; top: 10px; }
+    100% { opacity: 1; position: relative; top: 0px; }
+}
+.fadeimage1{
+    animation: fadeimage1 1s ease 0.5s both;
+}
+
+@keyframes fadeimage2{
+    0% { opacity: 0; position: relative; top: 10px; }
+    100% { opacity: 1; position: relative; top: 0px; }
+}
+.fadeimage2{
+    animation: fadeimage2 1s ease 0.75s both;
+}
+
+@keyframes fadeimage3{
+    0% { opacity: 0; position: relative; top: 10px; }
+    100% { opacity: 1; position: relative; top: 0px; }
+}
+.fadeimage3{
+    animation: fadeimage3 1s ease 1s both;
+}
+
