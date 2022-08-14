@@ -78,5 +78,5 @@ Zhilang Yang: Looked for templates; "News" and "Contact" pages.
 
 Kangyi Qiu: "Nongyuan" and "Shaoyuan" pages.
 
-Haoxiang Yang: Team leader; Proposed idea; "Home", "Jiayuan" pages and final integration; make demos.
+Haoxiang Yang: Proposed idea; "Home", "Jiayuan" pages and final integration; make demos.
 
